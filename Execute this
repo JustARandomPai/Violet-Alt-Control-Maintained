@@ -42,4 +42,4 @@ local config = {
 loadstring(game:HttpGet("https://raw.githubusercontent.com/JustARandomPai/Violet-Alt-Control-Maintained/main/VioletACmaintained.lua"))({bots = bots, controller = controller, config = config})
 
 -- Extra Notes (Use Fluxus or Synapse X to use this script as Fluxus is free (with multi inject support) and Synapse is a paid alternative)
--- 12/1/23 I use bluestacks and delta to use this, you can use whatever you like. If you have issues dm me on discord.
+-- 12/1/23 I use bluestacks and delta to use this, you can use whatever you like. If you have issues dm me on discord, cunzaki2
